@@ -22,12 +22,14 @@
    	 
   <a href = "mailto:duartti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wagner-duarte" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"   target="_blank"></a> 
- <div>
- <img align="right" alt="Rafa-yoda" src="https://miro.medium.com/max/724/1*lhOax3cZATGZwEhG0uTYRA.gif" with:30px>
-  </div>
-  ![Snake animation](https://github.com/wagner-duarte/wagner-duarte/blob/output/github-contribution-grid-snake.svg)
+    <img align="right" alt="Rafa-yoda" src="https://miro.medium.com/max/724/1*lhOax3cZATGZwEhG0uTYRA.gif">
+ </div>
  
-</div>
+  
+  
+ 
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -38,3 +40,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div> 
+
+ 
+ 
+  ![Snake animation](https://github.com/wagner-duarte/wagner-duarte/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
