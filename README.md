@@ -1,6 +1,4 @@
-
-
-## Olá eu sou Wagner Duarte
+## Olá! sou a Wagner Duarte
 <div>
   <a href="https://github.com/wagner-duarte">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wagner-duarte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -8,23 +6,31 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Wagner-Js" height="72" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Wagner-Ts" height="72" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg">
+  <img align="center" alt="Wagner-React" height="72" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
+  <img align="center" alt="Wagner-HTML" height="72" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+  <img align="center" alt="Wagner-CSS" height="72" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+  <img align="center" alt="Wagner-Python" height="72" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+  <img align="center" alt="Wagner-Csharp" height="72" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
   
 </div>
+  
   ##
+  
   <div> 
    	 
-  <a href = "mailto:duartti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href="mailto:duartti@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
   <a href="https://www.linkedin.com/in/wagner-duarte" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"   target="_blank"></a> 
-    <img align="right" alt="Rafa-yoda" src="https://miro.medium.com/max/724/1*lhOax3cZATGZwEhG0uTYRA.gif">
+    <a href="https://api.whatsapp.com/send?l=pt_AO&phone=+12991159575&text=Wagner Duarte, can we have a chat?">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+    <img align="right" alt="Wagner-yoda" src="https://www.1datagroup.com/wp-content/uploads/2020/12/loading_java.gif">
  </div>
  
+  
   
   
  
