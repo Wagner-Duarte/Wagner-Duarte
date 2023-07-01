@@ -32,10 +32,7 @@
  
   
 
-- 🌱 Estou me dedicando ao estudos desde 2019, focado em
-programação Java, realizando diversos treinamentos e cursos 
-buscando uma oportunidade de ingresso na área de 
-desenvolvimento.
+- 🌱 Tenho um amor apaixonado pela arte de ser um desenvolvedor. Através da programação, tenho o poder de solucionar desafios do mundo real por meio de linhas de código, criando ferramentas, aplicações e uma infinidade de soluções inovadoras. Essa capacidade de transformar problemas em oportunidades me encanta profundamente. Cada algoritmo criado é uma porta para a realização de ideias e a materialização de conceitos abstratos. A programação é uma linguagem universal que me permite construir pontes entre o imaginário e o concreto, onde as possibilidades são infinitas. É uma dança fascinante com a lógica, onde cada linha de código é uma nota que compõe uma sinfonia digital. Essa paixão impulsiona minha curiosidade incessante, pois cada projeto é uma jornada que expande meus horizontes e me desafia a explorar novos territórios tecnológicos. Como um desenvolvedor, sinto-me capacitado para criar um impacto positivo, contribuindo para um mundo mais eficiente, acessível e conectado. Através do meu trabalho, posso deixar uma marca duradoura, melhorando a vida das pessoas e influenciando positivamente o nosso futuro digital. Ser um desenvolvedor é muito mais do que escrever código; é abraçar a criatividade, a inovação e a resiliência em um ecossistema dinâmico e em constante evolução. E é exatamente essa dinamicidade que me fascina e me motiva a continuar aprendendo, experimentando e superando desafios, sempre em busca de soluções ainda mais inteligentes e eficientes.
 - ⚡ Fun fact: ...
 -->
 <div> 
