@@ -1,11 +1,5 @@
 ## Olá! sou Wagner Duarte
-<div>
-  <a href="https://github.com/wagner-duarte">
-  <img height="260em" src="https://github-readme-stats.vercel.app/api?username=wagner-duarte&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-
-  
-</div>
-  
+ 
   <div style="display: inline_block"><br>
   <img align="center" alt="Wagner-Js" height="72" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Wagner-Ts" height="72" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg">
@@ -16,7 +10,7 @@
   <img align="center" alt="Wagner-Csharp" height="72" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
   
 </div>
-  
+ 
   ##
   
   <div> 
