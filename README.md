@@ -2,7 +2,7 @@
 <div>
   <a href="https://github.com/wagner-duarte">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wagner-duarte&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagner-duarte&layout=donut&langs_count=12&theme=dark"/>
+
   
 </div>
   
