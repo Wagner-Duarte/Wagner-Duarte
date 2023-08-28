@@ -28,8 +28,7 @@
   
 
 - 🌱 Ser um desenvolvedor é uma paixão que me encanta. Com a programação, soluciono problemas reais através de código, criando diversas soluções e ferramentas. Cada algoritmo é uma porta para ideias concretas, uma dança com a lógica. Essa curiosidade me impulsiona, expandindo horizontes e explorando territórios tecnológicos. Como desenvolvedor, crio um impacto positivo, melhorando vidas e moldando o futuro digital. É mais que escrever código; é abraçar criatividade, inovação e resiliência num ambiente dinâmico. Essa dinamicidade me fascina e motiva a aprender, experimentar e superar desafios, buscando soluções mais inteligentes e eficientes.
-- ⚡ Fun fact: ...
--->
+
 <div> 
 
  
